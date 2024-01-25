@@ -9,7 +9,7 @@ $(document).ready(function () {
         $('#arrow-down').css('display', " inline")
         $('#arrow-top').css('display' , "none")
         $('.item-list').css('display' , 'none')
-        $('.org-daste').css('display' , "none")
+        $('.org-daste').css('display'  , "none")
 
         })
     $('.item-list').hover(function () {
